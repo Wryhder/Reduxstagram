@@ -1,8 +1,6 @@
-const cl = console.log;
-
 function posts(state = [], action) {
-    cl('The post will change');
-    cl(state, action);
+    console.log('The post will change');
+    console.log(state, action);
     return state;
 }
 
