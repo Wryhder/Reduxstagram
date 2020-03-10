@@ -2,7 +2,7 @@
 
 > This projects builds on Reduxstagram from Wes Bos' Learn Redux video course
 
-A very basic clone of Instagram written with React/Redux where users can add pictures, like or comment on them.
+A very basic clone of Instagram written with React/Redux where users can signup, add pictures, like and/or comment on them.
 
 ## Local Setup
 
